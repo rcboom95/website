@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SV-Amstelstad",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -107,10 +107,10 @@
           ],
           "_name": "header1",
           "_anchor": "header1-1",
-          "_customHTML": "<section class=\"mbr-section mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"2\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg&quot;);\">\n    <div class=\"mbr-table-cell\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"10\"><strong>Schietvereniging \n</strong><div><strong>Amstelstad</strong></div></h1>\n                    \n                    \n                </div>\n            </div>\n        </div>\n        <a class=\"mbr-arrow\" href=\"#features1-2\"><i class=\"fa fa-angle-down\"></i></a>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"2\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg&quot;);\">\n    <div class=\"mbr-table-cell\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"35\"><strong>Schietvereniging \n</strong><div><strong>Amstelstad</strong></div></h1>\n                    \n                    \n                </div>\n            </div>\n        </div>\n        <a class=\"mbr-arrow\" href=\"#features1-2\"><i class=\"fa fa-angle-down\"></i></a>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\nH1 {\n  font-family: 'Open Sans', sans-serif;\n  color: #ffffff;\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\nH1 {\n  font-family: 'Open Sans', sans-serif;\n  color: #ffffff;\n  font-size: 50px;\n}\n",
           "_customTemplate": true
         },
         {
