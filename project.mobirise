@@ -59,14 +59,13 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SV Amstelstad</a>",
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SV Amstelstad</a>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
           ],
           "_name": "menu",
           "_anchor": "menu-0",
-          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"0\" style=\"background-color: rgb(248, 248, 246);\">\n    <div class=\"container\">\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <div class=\"clearfix\"></div>\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <span class=\"navbar-logo\"><a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/mbr-1890x1920.jpg\" alt=\"sv-amstelstad\"></a></span>\n            <span><a class=\"navbar-brand text-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"4\">SV Amstelstad</a></span>\n\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"5\">Home</a></li><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"regelement.html\" code-editable-id=\"6\">Regelement</a></li><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"contact.html\" code-editable-id=\"7\">Contact</a></li></ul>\n        </div>\n    </div>\n</nav>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".navbar-toggler {\n  color: #000;\n}\n.navbar-brand {\n  font-size: 25px;\n}\n.nav-link {\n  font-size: 20px;\n}\n",
@@ -318,7 +317,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SV Amstelstad</a>",
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SV Amstelstad</a>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
@@ -428,7 +427,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SV Amstelstad</a>",
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SV Amstelstad</a>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
@@ -582,7 +581,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SV Amstelstad</a>",
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SV Amstelstad</a>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
