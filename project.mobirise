@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 19,
+    "uniqCompNum": 24,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -111,6 +111,49 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Modern Styles",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Momenteel gebruiken wij alleen de 12 en 25 meterbanen.<br></span><span style=\"font-size: 1.25rem;\">Wij hebben in overleg met de Meerschutters het groene licht gekregen om tegen een redelijke<br></span><span style=\"font-size: 1.25rem;\">vergoeding ook gebruik te kunnen maken van de 50 meterbaan.<br></span><span style=\"font-size: 1.25rem;\">Nu kunnen we met de geweren van de vereniging ook een wat langere afstand schieten.<br></span><span style=\"font-size: 1.25rem;\">We moeten nog even kijken hoe we het gaan verrekenen, daar komen we nog op terug.<br></span><span style=\"font-size: 1.25rem;\">Wellicht gaan alleen diegene er aan meebetalen die er gebruik van gaan maken, dat houd wel in dat de rest gewoon op de 12 en 25 meterbaan blijven schieten en geen gebruik maken van de 50 meterbaan.&nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-n"
+        },
+        {
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -150,7 +193,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/25-mtr-5-267x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/25m-baan-299x225.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -166,7 +209,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/25-mtr-2-267x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/25-mtr-5-267x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -244,7 +287,7 @@
     "regelement.html": {
       "settings": {
         "title": "Regelement",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -313,7 +356,7 @@
           }
         },
         {
-          "text": "<p>1. <b>BALLOTAGE</b>\n<br><span style=\"font-size: 1.25rem;\">De ballotageperiode is ten minste 6 maanden, of zoveel meer als het bestuur noodzakelijk acht op grond van rapporten van de ballotage commissie of op grond van eigen bevindingen.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>2. <b>CONTRIBUTIE</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Deze is gebaseerd op jaarbasis en in zijn geheel verschuldigd. Tussentijdse opzegging is hierop niet van invloed. Het verenigingsjaar loopt van 1 januari t/m 31 december. Opzegging minstens 1 maand voor aanvang van het nieuwe verenigingsjaar, dus uiterlijk per 30 novem¬ber. De contributiebetaling is per kwartaal vooruit, tenzij anders is overeengekomen. Contributieachterstand kan royement ten gevolge hebben. Bovendien is het bestuur gerechtigd deze achterstand door middel van gerechtelijke stappen te incasseren. De kosten hiervan zijn voor rekening van het in gebreke blijvende lid&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>3. <b>MELDINGSPLICHT</b><br></span><span style=\"font-size: 1.25rem;\">Elk lid meldt zich bij het betreden van het lokaal bij de dienstdoende baancommandant.&nbsp;<br></span></p><p><span style=\"font-size: 1.25rem;\"><br></span><span style=\"font-size: 1.25rem;\">4. <b>OPKOMSTPLICHT</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Gezien de bepalingen van de nieuwe Wet Wapens en Munitie is een minimaal aantal schietbeurten verplicht. Dit aantal is afhankelijk van het aantal wapens, zoals op uw verlof vermeld. De vereniging houdt uw registratiekaart bij. WAARSCHUWING !! Te weinig schietbeurten kan uw verlof kosten. Het is ten sterkste aan te raden, om bij langdurige afwezigheid, door ziekte, vakantie of werkzaamheden, daarvan mededeling te doen aan baancommandant of een der bestuursleden.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><br>5. <b>SCHIETRESULTATEN</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Ieder lid dient per jaar minimaal 10 geschoten kaarten in te leveren van ieder kaliber en discipline, die hij of zij schiet.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>6. <b>VEILIGHEID&nbsp;</b><br></span><span style=\"font-size: 1.25rem;\">Het is verboden om in het verenigingslokaal wapens te dragen. Deze moeten worden gelegd op de daartoe aangewezen plaatsen in het verenigingslokaal. Het is een ieder verboden wapens, die niet aan hem of haar toebehoren, ter hand te nemen zonder toestemming van de eigenaar. Het bekijken van wapens is alleen op de schietbaan toegestaan.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>Het is aan een ieder verplicht, die op de baan onregelmatigheden ziet gebeuren, daarvan melding te doen aan de baancommandant of een der bestuursleden.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>Toegestaan is slechts het gebruik van normale volmantel munitie en munitie met zgn. loden koppen. ANDERE MUNITIE IS TEN STRENGSTE VERBODEN ! Het zgn. SNELVUUR is eveneens niet toegestaan.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>ALCOHOL   gebruik voor het schieten is NIET toegestaan. Het bestuur zal een ieder, die incompetent de schietbaan opgaat een schietverbod opleggen. Dit is ook van toepassing op leden die eerst later op de avond de locatie betreden.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>7. <b>DISCIPLINE</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Het staat het bestuur vrij tegen een ieder maatregelen te nemen, die handelt in strijd met de algemeen geldende regels, onheus gedrag vertoont, en/of de veiligheidsbepalingen ernstig overtreedt. Een en ander kan royement ten gevolge hebben.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>8.<b>INTRODUCTIE</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Een introducé, meegebracht door een lid, valt onder de verantwoordelijkheid van dit lid. Een introducé dient vooraf bij het bestuur te worden voorgedragen. Zij schieten onder toezicht van een geoefend schutter en mogen pas vrij op de baan schieten na toestemming van het bestuur. Niet verschoten munitie mag niet mee naar huis worden genomen, doch dient bij een der leden met een verlof, bij de baancommandant of een der bestuursleden in bewaring te worden gegeven.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>9. <b>VERGADERINGEN</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Deze worden door de secretaris tijdig bekend gemaakt. Stemmen bij volmacht is mogelijk. Indien geen volmacht is afgegeven is opkomst verplicht. Bij eventuele verhindering dient men daarvan tijdig te berichten, hetzij mondeling, schriftelijk of telefonisch&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>10. <b>KASCOMMISSIE</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">De kascommissie brengt schriftelijk rapport uit binnen uiterlijk drie weken na afsluiting van het verenigingsjaar.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>11. <b>KLEDING</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Het dragen van camouflage kleding is verboden, indien hier geen gehoor gegeven wordt, kan dit royement te gevolge hebben.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>12. <b>SCHIETSCHIJVEN</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Bij het schieten op de baan worden alleen abstracte doelen gebruikt, het is verboden om op welke manier dan ook anders dan schietschijven te gebruiken.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>13. <b>AANVRAAG VERLOF.</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Elke nieuwe aanvraag van een verlof wordt door het bestuur besproken in de eerstvolgende bestuursvergadering, evenals op het bestaande verlof voor een aanvraag van een vuurwapen met een zwaarder kaliber. &nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>14. <b>INTREKKEN VERLOF.</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Wanneer een verlof door justitie en/of politie wordt ingetrokken, een verlof niet wordt verlengt of wanneer een verlof wordt geweigerd, wordt dat oordeel niet in twijfel getrokken en zal overgegaan worden tot royement van de betrokken verlofhouder. &nbsp;<br></span></p><p><span style=\"font-size: 1.25rem;\"><br></span><span style=\"font-size: 1.25rem;\">15. <b>MELDING KNSA</b>.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Zolang de vereniging SV-Amstelstad lid is van de KNSA, zal deze zich aan de regels houden van de organisatie en diens aanbevelingen in overleg overnemen.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>16. <b>AANWEZIGHEID BESTUUR.</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Ten tijde van opening van de vereniging, dient ten aller tijden minimaal 1 bestuurslid aanwezig te zijn op de locatie.&nbsp;</span></p><p><br></p>",
+          "text": "<p>1. <b>BALLOTAGE</b>\n<br><span style=\"font-size: 1.25rem;\">De ballotageperiode is ten minste 6 maanden, of zoveel meer als het bestuur noodzakelijk acht op grond van rapporten van de ballotage commissie of op grond van eigen bevindingen.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>2. <b>CONTRIBUTIE</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Deze is gebaseerd op jaarbasis en in zijn geheel verschuldigd. Tussentijdse opzegging is hierop niet van invloed. Het verenigingsjaar loopt van 1 januari t/m 31 december. Opzegging minstens 1 maand voor aanvang van het nieuwe verenigingsjaar, dus uiterlijk per 30 november. De contributiebetaling is per kwartaal vooruit, tenzij anders is overeengekomen. Contributieachterstand kan royement ten gevolge hebben. Bovendien is het bestuur gerechtigd deze achterstand door middel van gerechtelijke stappen te incasseren. De kosten hiervan zijn voor rekening van het in gebreke blijvende lid&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>3. <b>MELDINGSPLICHT</b><br></span><span style=\"font-size: 1.25rem;\">Elk lid meldt zich bij het betreden van het lokaal bij de dienstdoende baancommandant.&nbsp;<br></span></p><p><span style=\"font-size: 1.25rem;\"><br></span><span style=\"font-size: 1.25rem;\">4. <b>OPKOMSTPLICHT</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Gezien de bepalingen van de nieuwe Wet Wapens en Munitie is een minimaal aantal schietbeurten verplicht. Dit aantal is afhankelijk van het aantal wapens, zoals op uw verlof vermeld. De vereniging houdt uw registratiekaart bij. WAARSCHUWING !! Te weinig schietbeurten kan uw verlof kosten. Het is ten sterkste aan te raden, om bij langdurige afwezigheid, door ziekte, vakantie of werkzaamheden, daarvan mededeling te doen aan baancommandant of een der bestuursleden.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><br>5. <b>SCHIETRESULTATEN</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Ieder lid dient per jaar minimaal 10 geschoten kaarten in te leveren van ieder kaliber en discipline, die hij of zij schiet.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>6. <b>VEILIGHEID&nbsp;</b><br></span><span style=\"font-size: 1.25rem;\">Het is verboden om in het verenigingslokaal wapens te dragen. Deze moeten worden gelegd op de daartoe aangewezen plaatsen in het verenigingslokaal. Het is een ieder verboden wapens, die niet aan hem of haar toebehoren, ter hand te nemen zonder toestemming van de eigenaar. Het bekijken van wapens is alleen op de schietbaan toegestaan.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>Het is aan een ieder verplicht, die op de baan onregelmatigheden ziet gebeuren, daarvan melding te doen aan de baancommandant of een der bestuursleden.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>Toegestaan is slechts het gebruik van normale volmantel munitie en munitie met zgn. loden koppen. ANDERE MUNITIE IS TEN STRENGSTE VERBODEN ! Het zgn. SNELVUUR is eveneens niet toegestaan.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>ALCOHOL   gebruik voor het schieten is NIET toegestaan. Het bestuur zal een ieder, die incompetent de schietbaan opgaat een schietverbod opleggen. Dit is ook van toepassing op leden die eerst later op de avond de locatie betreden.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>7. <b>DISCIPLINE</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Het staat het bestuur vrij tegen een ieder maatregelen te nemen, die handelt in strijd met de algemeen geldende regels, onheus gedrag vertoont, en/of de veiligheidsbepalingen ernstig overtreedt. Een en ander kan royement ten gevolge hebben.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>8.<b>INTRODUCTIE</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Een introducé, meegebracht door een lid, valt onder de verantwoordelijkheid van dit lid. Een introducé dient vooraf bij het bestuur te worden voorgedragen. Zij schieten onder toezicht van een geoefend schutter en mogen pas vrij op de baan schieten na toestemming van het bestuur. Niet verschoten munitie mag niet mee naar huis worden genomen, doch dient bij een der leden met een verlof, bij de baancommandant of een der bestuursleden in bewaring te worden gegeven.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>9. <b>VERGADERINGEN</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Deze worden door de secretaris tijdig bekend gemaakt. Stemmen bij volmacht is mogelijk. Indien geen volmacht is afgegeven is opkomst verplicht. Bij eventuele verhindering dient men daarvan tijdig te berichten, hetzij mondeling, schriftelijk of telefonisch&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>10. <b>KASCOMMISSIE</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">De kascommissie brengt schriftelijk rapport uit binnen uiterlijk drie weken na afsluiting van het verenigingsjaar.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>11. <b>KLEDING</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Het dragen van camouflage kleding is verboden, indien hier geen gehoor gegeven wordt, kan dit royement te gevolge hebben.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>12. <b>SCHIETSCHIJVEN</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Bij het schieten op de baan worden alleen abstracte doelen gebruikt, het is verboden om op welke manier dan ook anders dan schietschijven te gebruiken.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>13. <b>AANVRAAG VERLOF.</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Elke nieuwe aanvraag van een verlof wordt door het bestuur besproken in de eerstvolgende bestuursvergadering, evenals op het bestaande verlof voor een aanvraag van een vuurwapen met een zwaarder kaliber. &nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>14. <b>INTREKKEN VERLOF.</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Wanneer een verlof door justitie en/of politie wordt ingetrokken, een verlof niet wordt verlengt of wanneer een verlof wordt geweigerd, wordt dat oordeel niet in twijfel getrokken en zal overgegaan worden tot royement van de betrokken verlofhouder. &nbsp;<br></span></p><p><span style=\"font-size: 1.25rem;\"><br></span><span style=\"font-size: 1.25rem;\">15. <b>MELDING KNSA</b>.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Zolang de vereniging SV-Amstelstad lid is van de KNSA, zal deze zich aan de regels houden van de organisatie en diens aanbevelingen in overleg overnemen.&nbsp;<br></span><span style=\"font-size: 1.25rem;\"><br>16. <b>AANWEZIGHEID BESTUUR.</b>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Ten tijde van opening van de vereniging, dient ten aller tijden minimaal 1 bestuurslid aanwezig te zijn op de locatie.&nbsp;</span></p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
@@ -354,7 +397,7 @@
     "contact.html": {
       "settings": {
         "title": "Contact",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -502,6 +545,88 @@
           ],
           "_name": "map2",
           "_anchor": "map2-h"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Links",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"regelement.html\">Regelement</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"contact.html\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1890x1920.jpg",
+              "height": 128,
+              "alt": "sv-amstelstad",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SV Amstelstad</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-size": "25px"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "menu-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "SV-Amstelstad - Aalsmeerderbrug 456, 1436 BM Aalsmeerderbrug - NL30INGB0002691812 t.n.v. SVAmstelstad, Amsterdam<br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "footer1-k"
         }
       ]
     }

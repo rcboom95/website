@@ -13,6 +13,15 @@
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
 }
+#msg-box3-n .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-n .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-n .lead P {
+  text-align: left;
+}
 #footer1-4 P {
   text-align: center;
   font-size: 18px;
@@ -49,4 +58,17 @@
 }
 #form1-f .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
+}
+#menu-j .navbar-toggler {
+  color: #000;
+}
+#menu-j .navbar-brand {
+  font-size: 25px;
+}
+#menu-j .nav-link {
+  font-size: 20px;
+}
+#footer1-k P {
+  text-align: center;
+  font-size: 18px;
 }
