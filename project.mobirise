@@ -66,11 +66,16 @@
           ],
           "_name": "menu",
           "_anchor": "menu-0",
-          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"0\" style=\"background-color: rgb(248, 248, 246);\">\n    <div class=\"container\">\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <div class=\"clearfix\"></div>\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <span class=\"navbar-logo\"><a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/mbr-1890x1920.jpg\" alt=\"sv-amstelstad\"></a></span>\n            <span><a class=\"navbar-brand text-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"4\">SV Amstelstad</a></span>\n\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"5\">Home</a></li><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"regelement.html\" code-editable-id=\"6\">Regelement</a></li><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"contact.html\" code-editable-id=\"7\">Contact</a></li></ul>\n        </div>\n    </div>\n</nav>",
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"0\" style=\"background-color: rgb(248, 248, 246);\">\n    <div class=\"container\">\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <div class=\"clearfix\"></div>\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <span class=\"navbar-logo\"><a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/mbr-1890x1920.jpg\" alt=\"sv-amstelstad\"></a></span>\n            <span><a class=\"navbar-brand text-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"46\">SV Amstelstad</a></span>\n\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"47\">Home</a></li><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"regelement.html\" code-editable-id=\"48\">Regelement</a></li><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"contact.html\" code-editable-id=\"49\">Contact</a></li></ul>\n        </div>\n    </div>\n</nav>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".navbar-toggler {\n  color: #000;\n}\n.navbar-brand {\n  font-size: 25px;\n}\n.nav-link {\n  font-size: 20px;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
         },
         {
           "_params": {
@@ -101,8 +106,8 @@
           ],
           "_name": "header1",
           "_anchor": "header1-i",
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\nH1 {\n  color: #ffffff;\n  font-family: 'Open Sans', sans-serif;\n  font-size: 500%;\n}\n",
-          "_customHTML": "<section class=\"mbr-section mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"113\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg&quot;);\">\n    <div class=\"mbr-table-cell\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"33\">Schietvereniging<br>Amstelstad</h1>\n                    \n                    \n                </div>\n            </div>\n        </div>\n        <a class=\"mbr-arrow\" href=\"#msg-box3-n\"><i class=\"fa fa-angle-down\"></i></a>\n    </div>\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\nH1 {\n  color: #ffffff;\n  font-family: 'Open Sans', sans-serif;\n  font-size: 250%;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"113\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg&quot;);\">\n    <div class=\"mbr-table-cell\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"6\">Schietvereniging<br>Amstelstad</h1>\n                    \n                    \n                </div>\n            </div>\n        </div>\n        <a class=\"mbr-arrow\" href=\"#msg-box3-n\"><i class=\"fa fa-angle-down\"></i></a>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
