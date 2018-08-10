@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -39,7 +39,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#f2f2f2",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"regelement.html\">Regelement</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"contact.html\">Contact</a></li>",
@@ -66,17 +66,11 @@
           ],
           "_name": "menu",
           "_anchor": "menu-0",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            },
-            ".navbar-brand": {
-              "font-size": "25px"
-            },
-            ".nav-link": {
-              "font-size": "20px"
-            }
-          }
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"0\" style=\"background-color: rgb(248, 248, 246);\">\n    <div class=\"container\">\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <div class=\"clearfix\"></div>\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <span class=\"navbar-logo\"><a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/mbr-1890x1920.jpg\" alt=\"sv-amstelstad\"></a></span>\n            <span><a class=\"navbar-brand text-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"4\">SV Amstelstad</a></span>\n\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"5\">Home</a></li><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"regelement.html\" code-editable-id=\"6\">Regelement</a></li><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"contact.html\" code-editable-id=\"7\">Contact</a></li></ul>\n        </div>\n    </div>\n</nav>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".navbar-toggler {\n  color: #000;\n}\n.navbar-brand {\n  font-size: 25px;\n}\n.nav-link {\n  font-size: 20px;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -98,7 +92,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Schietvereniging \n</b><div><b>Amstelstad</b></div>",
+          "title": "Schietvereniging<br>Amstelstad",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
@@ -106,12 +100,15 @@
             "Thema"
           ],
           "_name": "header1",
-          "_anchor": "header1-1",
-          "_customHTML": "<section class=\"mbr-section mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"2\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg&quot;);\">\n    <div class=\"mbr-table-cell\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"35\"><strong>Schietvereniging \n</strong><div><strong>Amstelstad</strong></div></h1>\n                    \n                    \n                </div>\n            </div>\n        </div>\n        <a class=\"mbr-arrow\" href=\"#features1-2\"><i class=\"fa fa-angle-down\"></i></a>\n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\nH1 {\n  font-family: 'Open Sans', sans-serif;\n  color: #ffffff;\n  font-size: 50px;\n}\n",
-          "_customTemplate": true
+          "_anchor": "header1-i",
+          "_customCSS": "",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "_params": {
@@ -197,9 +194,9 @@
             }
           },
           "title1": "12 meter baan",
-          "caption1": "De 12 meter baan is geschikt voor luchtbuksen wapens en alle vuurwapens tot .22.\n<br>Deze baan beschikt over een transporteur.<br><div><br></div>",
+          "caption1": "De 12 meter baan is geschikt voor luchtbuksen wapens en alle vuurwapens tot .22.\n<br>Deze baan beschikt over een transporteur.",
           "title2": "25 meter baan",
-          "caption2": "De 25 meter baan is geschikt voor luchtbuksen en alle vuurwapens tot .44.\n<br>Deze baan beschikt over een zelf instelbare transporteur",
+          "caption2": "De 25 meter baan is geschikt voor luchtbuksen en alle vuurwapens tot .44.\n<br>Deze baan beschikt over een zelf instelbare transporteur.",
           "title3": "50 meter baan",
           "caption3": "50 Meter baan, geschikt voor elk vuurwapen van elk caliber.\n<br>Deze baan beschikt niet niet over een transporteur",
           "title4": "Unlimited Sites",
@@ -258,7 +255,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#f2f2f2",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"regelement.html\">Regelement</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"contact.html\">Contact</a></li>",
@@ -368,7 +365,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#f2f2f2",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"regelement.html\">Regelement</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"contact.html\">Contact</a></li>",
