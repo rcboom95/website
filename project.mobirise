@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SV-Amstelstad",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -488,7 +488,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Contact forumlier",
+          "title": "Contact formulier",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Verzend</a>",
           "form": {
             "action": "ramon@rb95.nl",
