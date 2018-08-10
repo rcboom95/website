@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-
 #menu-0 .navbar-toggler {
   color: #000;
 }
@@ -9,9 +8,13 @@
 #menu-0 .nav-link {
   font-size: 20px;
 }
+#header1-i {
+  
+}
 #header1-i H1 {
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
+  font-size: 500%;
 }
 #msg-box3-n .mbr-header .mbr-header__text {
   text-align: center;

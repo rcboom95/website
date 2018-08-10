@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SV-Amstelstad",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -100,14 +100,11 @@
           ],
           "_name": "header1",
           "_anchor": "header1-i",
-          "_customCSS": "",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\nH1 {\n  color: #ffffff;\n  font-family: 'Open Sans', sans-serif;\n  font-size: 500%;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"2\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg&quot;);\">\n    <div class=\"mbr-table-cell\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"25\">Schietvereniging<br>Amstelstad</h1>\n                    \n                    \n                </div>\n            </div>\n        </div>\n        <a class=\"mbr-arrow\" href=\"#msg-box3-n\"><i class=\"fa fa-angle-down\"></i></a>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_styles": {
